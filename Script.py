@@ -247,7 +247,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 <b>📕 Gᴇɴʀᴇs ➠ {genres}</b>
 <b>🌎 Cᴏᴜɴᴛʀʏ ➠ {countries}</b>
 
-📖 {plot}
+<b>📖 {plot}</b>
 
 <a href=https://t.me/itzmecp><b>#FilmZone</b></a> | <a href=https://t.me/FilmZone_Official><b>@FilmZone_Official</b></a>"""
     
